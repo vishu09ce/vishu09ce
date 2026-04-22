@@ -32,7 +32,7 @@ Domain        pharma QMS  ·  21 CFR Part 11  ·  ALCOA+  ·  GxP compliance
 
 ## Background
 
-- **QMS consultant** — AI strategy and digital transformation across pharma and life sciences
+- AI strategy and digital transformation across pharma and life sciences
 - Previously in-house at **Sarepta Therapeutics** and **Bristol Myers Squibb**
 - **MBA with AI specialization** | Generative AI Software Engineering (Coursera, in progress)
 - Writing on AI readiness in pharma QMS — [connect on LinkedIn](https://www.linkedin.com/in/vishu09ce)
