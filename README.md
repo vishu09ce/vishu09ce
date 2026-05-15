@@ -51,4 +51,4 @@ Dev Tools        Claude Code · VS Code
 ---
 
 *AI Solutions Consultant — Life Sciences & Healthcare IT*
-📎 [Connect on LinkedIn](https://www.linkedin.com/in/vishu09ce)
+📎 [Connect on LinkedIn](https://www.linkedin.com/in/vashishth-purohit/)
