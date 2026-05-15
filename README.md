@@ -1,50 +1,54 @@
 # Hi, I'm Vashishth 👋
 
-I build AI agents and LLM-powered tools — focused on practical implementations using Python, LiteLLM, OpenAI, and Groq.
+I build AI-powered applications that solve real-world problems in regulated industries — where accuracy, accountability, and scalability aren't optional.
 
-My background includes Implementation of Enterprise IT systems, Digital Transformation primarily in regulated Life Sciences Industries and AI engineering, which means I build things that work in regulated, high-stakes environments — not just demos.
+13 years building enterprise systems in Life Sciences means I know exactly where AI creates value and where it needs a human in the loop.
+
+My FDA CSA validation tool reduces human effort by 70% — without removing humans from the process.
 
 ---
 
-## What I'm building
+## What I'm Building
 
 | Repo | What it does |
 |------|-------------|
-| [`ai-agent-framework`](https://github.com/vishu09ce/ai-agent-framework) | GAME framework implementation — Goals, Actions, Memory, Environment. Full agent loop with tool-based design and LiteLLM routing. |
-| [`llm-api-toolkit`](https://github.com/vishu09ce/llm-api-toolkit) | Practical patterns for LLM API integration: token tracking, multi-turn memory, provider abstraction (OpenAI / Groq). |
-| [`prompt-engineering-patterns`](https://github.com/vishu09ce/prompt-engineering-patterns) | System prompt design, few-shot structures, multi-turn memory patterns, and evaluation approaches. |
-| [`pharma-process-agent`](https://github.com/vishu09ce/pharma-process-agent) | AI agent for quality event triage in pharma QMS — maps 21 CFR Part 11 / ALCOA+ requirements to agentic workflows. |
-| [`function-calling-examples`](https://github.com/vishu09ce/function-calling-examples) | JSON Schema tool definitions, function dispatch patterns, structured output from LLMs. |
+| [`ai-csa-test-case-generator`](https://github.com/vishu09ce/ai-csa-test-case-generator) | Full stack AI app that generates a complete FDA CSA validation document package from URS/FRS inputs — HITL-enforced, production-deployed |
+| [`9to5fitness`](https://github.com/vishu09ce/9to5fitness) | RAG-based AI coaching app — ChromaDB vector store, LiteLLM abstraction, FastAPI + React, deployed on Render and GitHub Pages |
+| [`Expense-Tracker`](https://github.com/vishu09ce/Expense-Tracker) | Full stack expense tracking application — TypeScript, demonstrating end-to-end build capability |
 
 ---
 
-## Skills & stack
+## Stack & Skills
 
 ```
-Languages     Python
-LLM APIs      OpenAI  ·  Groq  ·  Anthropic  ·  LiteLLM (multi-provider routing)
-Agent design  GAME framework  ·  tool-based agents  ·  function calling  ·  memory patterns
-Prompting     system prompt design  ·  multi-turn  ·  few-shot  ·  structured output
-Domain        pharma QMS  ·  21 CFR Part 11  ·  ALCOA+  ·  GxP compliance
+Languages        Python · TypeScript
+LLM Integration  LiteLLM · Groq · OpenAI · Anthropic
+AI/RAG           ChromaDB · RAG pipeline design · prompt engineering · output validation
+Full Stack       React · Vite · Tailwind · FastAPI · SQLite
+Deployment       Docker · Render · GitHub Pages · GitHub Actions
+Domain           Life Sciences · FDA CSA · 21 CFR Part 11 · GxP · HITL workflow design
+Dev Tools        Claude Code · VS Code
 ```
 
 ---
 
 ## Background
 
-- AI strategy and digital transformation across pharma and life sciences
+- AI Solutions Consultant — Life Sciences & Healthcare IT
+- 13 years building enterprise systems in pharma and biotech
+- Big-4 advisory experience in Life Sciences digital transformation
 - Previously in-house at **Sarepta Therapeutics** and **Bristol Myers Squibb**
-- **MBA with AI specialization** | Generative AI Software Engineering (Coursera, in progress)
-- Writing on AI readiness in pharma QMS — [connect on LinkedIn](https://www.linkedin.com/in/vishu09ce)
+- MBA with AI specialization — Strayer University (in progress)
+- Certifications: Google AI Professional · Google Gen AI Leader · Generative AI Software Engineering (Vanderbilt)
 
 ---
 
-## Currently working on
+## Upcoming Projects
 
-- 🔧 Building out `ai-agent-framework` — GAME loop with LiteLLM and tool dispatch
-- 📝 White paper: *Predictive Diagnostics and the Need for Standardization in the Age of AI*
-- 📚 Coursera: Generative AI Software Engineering
+- 🔬 **Clinical Trial Protocol Digitization** — AI-driven extraction and digitization of inclusion/exclusion criteria from PDF protocols, with HITL verification workflow and GxP-compliant audit trail
+- 💊 **AI-Powered Pharmacovigilance Accelerator** — LLM-based adverse event signal detection and narrative generation, designed for 21 CFR Part 314 regulated environments
 
 ---
 
-*Open to AI engineering and ML engineering roles in Life Sciences and regulated industries. Requires visa sponsorship.*
+*AI Solutions Consultant — Life Sciences & Healthcare IT*
+📎 [Connect on LinkedIn](https://www.linkedin.com/in/vishu09ce)
